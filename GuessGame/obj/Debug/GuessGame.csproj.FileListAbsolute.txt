@@ -1,0 +1,33 @@
+C:\Users\Nasim Mulladzhanov\Desktop\GuessGame\GuessGame\bin\Debug\GuessGame.exe.config
+C:\Users\Nasim Mulladzhanov\Desktop\GuessGame\GuessGame\bin\Debug\GuessGame.exe
+C:\Users\Nasim Mulladzhanov\Desktop\GuessGame\GuessGame\bin\Debug\GuessGame.pdb
+C:\Users\Nasim Mulladzhanov\Desktop\GuessGame\GuessGame\obj\Debug\GuessGame.csproj.AssemblyReference.cache
+C:\Users\Nasim Mulladzhanov\Desktop\GuessGame\GuessGame\obj\Debug\GuessGame.Form1.resources
+C:\Users\Nasim Mulladzhanov\Desktop\GuessGame\GuessGame\obj\Debug\GuessGame.Properties.Resources.resources
+C:\Users\Nasim Mulladzhanov\Desktop\GuessGame\GuessGame\obj\Debug\GuessGame.csproj.GenerateResource.cache
+C:\Users\Nasim Mulladzhanov\Desktop\GuessGame\GuessGame\obj\Debug\GuessGame.csproj.CoreCompileInputs.cache
+C:\Users\Nasim Mulladzhanov\Desktop\GuessGame\GuessGame\obj\Debug\GuessGame.exe
+C:\Users\Nasim Mulladzhanov\Desktop\GuessGame\GuessGame\obj\Debug\GuessGame.pdb
+C:\Users\Nasim Mulladzhanov\Desktop\GuessGame\GuessGame\obj\Debug\GuessGame.Form2.resources
+C:\Users\Orash Usmoniyon\Downloads\Telegram Desktop\GuessGame\GuessGame\GuessGame\bin\Debug\GuessGame.exe.config
+C:\Users\Orash Usmoniyon\Downloads\Telegram Desktop\GuessGame\GuessGame\GuessGame\bin\Debug\GuessGame.exe
+C:\Users\Orash Usmoniyon\Downloads\Telegram Desktop\GuessGame\GuessGame\GuessGame\bin\Debug\GuessGame.pdb
+C:\Users\Orash Usmoniyon\Downloads\Telegram Desktop\GuessGame\GuessGame\GuessGame\obj\Debug\GuessGame.csproj.AssemblyReference.cache
+C:\Users\Orash Usmoniyon\Downloads\Telegram Desktop\GuessGame\GuessGame\GuessGame\obj\Debug\GuessGame.Form1.resources
+C:\Users\Orash Usmoniyon\Downloads\Telegram Desktop\GuessGame\GuessGame\GuessGame\obj\Debug\GuessGame.Form2.resources
+C:\Users\Orash Usmoniyon\Downloads\Telegram Desktop\GuessGame\GuessGame\GuessGame\obj\Debug\GuessGame.Properties.Resources.resources
+C:\Users\Orash Usmoniyon\Downloads\Telegram Desktop\GuessGame\GuessGame\GuessGame\obj\Debug\GuessGame.csproj.GenerateResource.cache
+C:\Users\Orash Usmoniyon\Downloads\Telegram Desktop\GuessGame\GuessGame\GuessGame\obj\Debug\GuessGame.csproj.CoreCompileInputs.cache
+C:\Users\Orash Usmoniyon\Downloads\Telegram Desktop\GuessGame\GuessGame\GuessGame\obj\Debug\GuessGame.exe
+C:\Users\Orash Usmoniyon\Downloads\Telegram Desktop\GuessGame\GuessGame\GuessGame\obj\Debug\GuessGame.pdb
+C:\Users\Nasim Mulladzhanov\Desktop\GuessGame\GuessGame\GuessGame\bin\Debug\GuessGame.exe.config
+C:\Users\Nasim Mulladzhanov\Desktop\GuessGame\GuessGame\GuessGame\bin\Debug\GuessGame.exe
+C:\Users\Nasim Mulladzhanov\Desktop\GuessGame\GuessGame\GuessGame\bin\Debug\GuessGame.pdb
+C:\Users\Nasim Mulladzhanov\Desktop\GuessGame\GuessGame\GuessGame\obj\Debug\GuessGame.csproj.AssemblyReference.cache
+C:\Users\Nasim Mulladzhanov\Desktop\GuessGame\GuessGame\GuessGame\obj\Debug\GuessGame.Form1.resources
+C:\Users\Nasim Mulladzhanov\Desktop\GuessGame\GuessGame\GuessGame\obj\Debug\GuessGame.Form2.resources
+C:\Users\Nasim Mulladzhanov\Desktop\GuessGame\GuessGame\GuessGame\obj\Debug\GuessGame.Properties.Resources.resources
+C:\Users\Nasim Mulladzhanov\Desktop\GuessGame\GuessGame\GuessGame\obj\Debug\GuessGame.csproj.GenerateResource.cache
+C:\Users\Nasim Mulladzhanov\Desktop\GuessGame\GuessGame\GuessGame\obj\Debug\GuessGame.csproj.CoreCompileInputs.cache
+C:\Users\Nasim Mulladzhanov\Desktop\GuessGame\GuessGame\GuessGame\obj\Debug\GuessGame.exe
+C:\Users\Nasim Mulladzhanov\Desktop\GuessGame\GuessGame\GuessGame\obj\Debug\GuessGame.pdb

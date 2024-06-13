@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orash Usmoniyon\\Downloads\\Telegram Desktop\\GuessGame\\GuessGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E24E59A-0CEE-44D9-AB7C-700A173E5AE9}|GuessGame\\GuessGame.csproj|C:\\Users\\Orash Usmoniyon\\Downloads\\Telegram Desktop\\GuessGame\\GuessGame\\guessgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E24E59A-0CEE-44D9-AB7C-700A173E5AE9}|GuessGame\\GuessGame.csproj|solutionrelative:guessgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E24E59A-0CEE-44D9-AB7C-700A173E5AE9}|GuessGame\\GuessGame.csproj|C:\\Users\\Orash Usmoniyon\\Downloads\\Telegram Desktop\\GuessGame\\GuessGame\\guessgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E24E59A-0CEE-44D9-AB7C-700A173E5AE9}|GuessGame\\GuessGame.csproj|solutionrelative:guessgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E24E59A-0CEE-44D9-AB7C-700A173E5AE9}|GuessGame\\GuessGame.csproj|C:\\Users\\Orash Usmoniyon\\Downloads\\Telegram Desktop\\GuessGame\\GuessGame\\guessgame\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E24E59A-0CEE-44D9-AB7C-700A173E5AE9}|GuessGame\\GuessGame.csproj|solutionrelative:guessgame\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E24E59A-0CEE-44D9-AB7C-700A173E5AE9}|GuessGame\\GuessGame.csproj|c:\\users\\orash usmoniyon\\downloads\\telegram desktop\\guessgame\\guessgame\\guessgame\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E24E59A-0CEE-44D9-AB7C-700A173E5AE9}|GuessGame\\GuessGame.csproj|solutionrelative:guessgame\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E24E59A-0CEE-44D9-AB7C-700A173E5AE9}|GuessGame\\GuessGame.csproj|C:\\Users\\Orash Usmoniyon\\Downloads\\Telegram Desktop\\GuessGame\\GuessGame\\guessgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E24E59A-0CEE-44D9-AB7C-700A173E5AE9}|GuessGame\\GuessGame.csproj|solutionrelative:guessgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E24E59A-0CEE-44D9-AB7C-700A173E5AE9}|GuessGame\\GuessGame.csproj|C:\\Users\\Orash Usmoniyon\\Downloads\\Telegram Desktop\\GuessGame\\GuessGame\\guessgame\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E24E59A-0CEE-44D9-AB7C-700A173E5AE9}|GuessGame\\GuessGame.csproj|solutionrelative:guessgame\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 390,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Orash Usmoniyon\\Downloads\\Telegram Desktop\\GuessGame\\GuessGame\\GuessGame\\Class1.cs",
+              "RelativeDocumentMoniker": "GuessGame\\Class1.cs",
+              "ToolTip": "C:\\Users\\Orash Usmoniyon\\Downloads\\Telegram Desktop\\GuessGame\\GuessGame\\GuessGame\\Class1.cs",
+              "RelativeToolTip": "GuessGame\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T15:54:58.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orash Usmoniyon\\Downloads\\Telegram Desktop\\GuessGame\\GuessGame\\GuessGame\\Program.cs",
+              "RelativeDocumentMoniker": "GuessGame\\Program.cs",
+              "ToolTip": "C:\\Users\\Orash Usmoniyon\\Downloads\\Telegram Desktop\\GuessGame\\GuessGame\\GuessGame\\Program.cs",
+              "RelativeToolTip": "GuessGame\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T15:54:59.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Orash Usmoniyon\\Downloads\\Telegram Desktop\\GuessGame\\GuessGame\\GuessGame\\Form2.cs",
+              "RelativeDocumentMoniker": "GuessGame\\Form2.cs",
+              "ToolTip": "C:\\Users\\Orash Usmoniyon\\Downloads\\Telegram Desktop\\GuessGame\\GuessGame\\GuessGame\\Form2.cs",
+              "RelativeToolTip": "GuessGame\\Form2.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAowEYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T15:54:59.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Orash Usmoniyon\\Downloads\\Telegram Desktop\\GuessGame\\GuessGame\\GuessGame\\Form1.cs",
+              "RelativeDocumentMoniker": "GuessGame\\Form1.cs",
+              "ToolTip": "C:\\Users\\Orash Usmoniyon\\Downloads\\Telegram Desktop\\GuessGame\\GuessGame\\GuessGame\\Form1.cs [Design]",
+              "RelativeToolTip": "GuessGame\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T15:54:59.228Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Orash Usmoniyon\\Downloads\\Telegram Desktop\\GuessGame\\GuessGame\\GuessGame\\Form2.cs",
+              "RelativeDocumentMoniker": "GuessGame\\Form2.cs",
+              "ToolTip": "C:\\Users\\Orash Usmoniyon\\Downloads\\Telegram Desktop\\GuessGame\\GuessGame\\GuessGame\\Form2.cs [Design]",
+              "RelativeToolTip": "GuessGame\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T15:54:59.225Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Orash Usmoniyon\\Downloads\\Telegram Desktop\\GuessGame\\GuessGame\\GuessGame\\Form1.cs",
+              "RelativeDocumentMoniker": "GuessGame\\Form1.cs",
+              "ToolTip": "C:\\Users\\Orash Usmoniyon\\Downloads\\Telegram Desktop\\GuessGame\\GuessGame\\GuessGame\\Form1.cs",
+              "RelativeToolTip": "GuessGame\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T15:54:59.227Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
